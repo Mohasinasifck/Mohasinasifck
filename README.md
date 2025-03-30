@@ -18,8 +18,9 @@ I am an AI & ML enthusiast passionate about building intelligent solutions using
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
+<!--
 ![Mohasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohasinasifck&show_icons=true&theme=tokyonight)
-
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasinasifck&layout=compact&theme=tokyonight)
 
 
