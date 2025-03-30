@@ -1,4 +1,4 @@
-![Profile Banner](https://your-banner-image-url.com)
+
 
 # 👋 Hello, I'm Mohasin!
 ### 🚀 AI & ML Engineer | Open Source Contributor | Tech Enthusiast
