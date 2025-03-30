@@ -3,8 +3,12 @@
 # 👋 Hello, I'm Mohasin!
 ### 🚀 AI & ML Engineer | Open Source Contributor | Tech Enthusiast
 
+📍 **Based in India**
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&lines=Welcome+to+my+GitHub!;AI+ML+Engineer;Building+Innovative+Projects;Exploring+Deep+Learning)
 
+## 🧠 Introduction
+I am an AI & ML enthusiast passionate about building intelligent solutions using Machine Learning, Deep Learning, and Computer Vision. My projects focus on solving real-world problems with AI-driven approaches.
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
